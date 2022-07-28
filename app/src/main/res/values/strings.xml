@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bermain Puzzle Huruf</string>
+    <string name="teks_menu1">Ulangi</string>
+    <string name="teks_menu2">Keluar</string>
+    <string name="teks_puzzle">Puzzle Huruf</string>
+    <string name="teks_a">A</string>
+    <string name="teks_b">B</string>
+    <string name="teks_c">C</string>
+    <string name="teks_d">D</string>
+    <string name="teks_e">E</string>
+    <string name="teks_f">F</string>
+    <string name="teks_h">H</string>
+    <string name="teks_g">G</string>
+    <string name="teks_i">I</string>
+    <string name="teks_j">J</string>
+    <string name="teks_k">K</string>
+    <string name="teks_l">L</string>
+    <string name="teks_m">M</string>
+    <string name="teks_n">N</string>
+    <string name="teks_o">O</string>
+</resources>
